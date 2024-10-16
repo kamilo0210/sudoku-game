@@ -13,7 +13,7 @@ Este es un mini proyecto desarrollado en JavaFX utilizando IntelliJ IDEA para im
 ## Clonar el repositorio
 Para obtener una copia local del repositorio, abre una terminal en la carpeta donde quieres guardarlo y escribe el siguiente comando:
 
-`git clone https://github.com/kamilo0210/sudoku-game`
+`git clone https://github.com/kamilo0210/sudoku-game.git`
 ## Crear una nueva rama
 Es recomendable trabajar en una rama separada para nuevas funcionalidades o modificaciones. Crea y cambia a una nueva rama:
 
